@@ -1,4 +1,4 @@
 # Build-A-Technical-Documentation-Page
-FreeCodeCamp.com Responsive Web Design Certification Project - "Build a Technical Documentation Page"
-<https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page>
+FreeCodeCamp.com Responsive Web Design Certification Project - "Build a Technical Documentation Page" <br />
+Objective: Build an app that is functionally similar to <https://technical-documentation-page.freecodecamp.rocks> 
 Documentation about JavaScript!
